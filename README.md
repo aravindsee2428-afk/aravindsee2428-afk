@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Aravind+Sanakan;Electrical+%26+Electronics+Engineering+Student;AI+%7C+Embedded+Systems+%7C+Robotics;Building+Smart+Engineering+Solutions" alt="Typing SVG" />
+</p>
+
 # Hi 👋, I'm Aravind Sanakan
 
 ### Electrical & Electronics Engineering Student | AI • Embedded Systems • Robotics • IoT
